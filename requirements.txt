@@ -1,0 +1,5 @@
+python-telegram-bot
+python-pptx
+requests
+reportlab
+googletrans==4.0.0-rc1
